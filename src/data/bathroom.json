@@ -1,0 +1,50 @@
+[
+    {
+        "id": 2,
+        "name": "Towel",
+        "price": 12,
+        "imgUrl": "/imgs/towel1.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Hand Towel",
+        "price": 25.60,
+        "imgUrl": "/imgs/handtowel1.png"
+    },
+    {
+        "id": 22,
+        "name": "Bathmat",
+        "price": 37.61,
+        "imgUrl": "/imgs/bathmat1.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Toothbrush",
+        "price": 41.99,
+        "imgUrl": "/imgs/toothbrush1.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Toothpaste",
+        "price": 3.99,
+        "imgUrl": "/imgs/toothpaste1.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Cleaning Set",
+        "price": 21.47,
+        "imgUrl": "/imgs/cleaningset2.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Plunger",
+        "price": 7.99,
+        "imgUrl": "/imgs/plunger1.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Toilet Paper",
+        "price": 1.53,
+        "imgUrl": "/imgs/toiletpaper1.png"
+    }
+]

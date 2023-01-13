@@ -1,0 +1,38 @@
+[
+    {
+        "id": 4,
+        "name": "Coffee Table",
+        "price": 149.50,
+        "imgUrl": "/imgs/coffeetable1.png"
+    },
+    {
+        "id": 41,
+        "name": "Couch",
+        "price": 315.03,
+        "imgUrl": "/imgs/couch1.png"
+    },
+    {
+        "id": 42,
+        "name": "Chair",
+        "price": 195.14,
+        "imgUrl": "/imgs/chair1.png"
+    },
+    {
+        "id": 43,
+        "name": "Area Rug",
+        "price": 179,
+        "imgUrl": "/imgs/arearug1.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Swiffer",
+        "price": 25,
+        "imgUrl": "/imgs/swiffer1.jpg"
+    },
+    {
+        "id": 45,
+        "name": "Vaccuum",
+        "price": 89,
+        "imgUrl": "/imgs/vaccum2.jpg"
+    }
+]

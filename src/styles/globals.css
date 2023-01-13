@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Lato:wght@300&family=Lora:wght@400;500&family=Poppins:wght@200;300;400&display=swap');
+
+/* :root {
+  --font-base: 'Poppins', serif;
+  --font-alt: '', sans-serif;
+
+  --color-golden: #DCCA87;
+  --color-black: #0C0C0C;
+  --color-gray: #545454;
+  --color-crimson: #F5EFDB;
+  --color-grey: #AAAAAA;
+  --color-white: #FFFFFF;
+
+  font-family: 'Arvo', serif;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Lora', serif;
+  font-family: 'Poppins', sans-serif; 
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Times-Roman", sans-serif;
+
+}
+
+.btn:hover {
+  color: #B19CD7;
+}

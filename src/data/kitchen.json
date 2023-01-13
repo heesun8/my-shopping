@@ -1,0 +1,87 @@
+
+[
+    {
+      "id": 31,
+      "name": "Cups",
+      "price": 54.85,
+      "imgUrl": "/imgs/cups1.avif"
+    },
+    {
+      "id": 32,
+      "name": "Cutlery Set",
+      "price": 23.97,
+      "imgUrl": "/imgs/cutlery3.png"
+    },
+    {
+      "id": 33,
+      "name": "Can Opener",
+      "price": 6.19,
+      "imgUrl": "/imgs/canopener1.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Pot Set",
+      "price": 395,
+      "imgUrl": "/imgs/potset1.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Utensils",
+      "price": 59,
+      "imgUrl": "/imgs/utensils1.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Toaster Oven",
+      "price": 349,
+      "imgUrl": "/imgs/toasteroven1.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Coffee Maker",
+      "price": 1250,
+      "imgUrl": "/imgs/coffeemaker1.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Microwave",
+      "price": 98,
+      "imgUrl": "/imgs/microwave.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Cutting Board",
+      "price": 50,
+      "imgUrl": "/imgs/cuttingboard1.png"
+    },
+    {
+      "id": 310,
+      "name": "Chef Knives",
+      "price": 42,
+      "imgUrl": "/imgs/chefknives1.jpg"
+    },
+    {
+      "id": 311,
+      "name": "Containers",
+      "price": 11.99,
+      "imgUrl": "/imgs/containers1.avif"
+    },
+    {
+      "id": 312,
+      "name": "Hand Towel",
+      "price": 12,
+      "imgUrl": "/imgs/handtowel2.png"
+    },
+    {
+      "id": 313,
+      "name": "Trash Can",
+      "price": 89,
+      "imgUrl": "/imgs/trashcan1.png"
+    },
+    {
+      "id": 314,
+      "name": "Flashlight",
+      "price": 12.99,
+      "imgUrl": "/imgs/flashlight1.jpg"
+    }
+  ]
