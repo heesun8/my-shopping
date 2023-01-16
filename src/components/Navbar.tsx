@@ -37,23 +37,26 @@ export function Navbar() {
                             className="me-2"
                             aria-label="Search"
                         />
-                        <Button 
-                        variant="outline-secondary"
-                        // style={{backgroundColor: "#B19CD7"}}
-                        className="btn"
-                        >Search</Button>
+                        <Nav.Link to="/" as={NavLink}>
+                            <Button
+                                variant="outline-secondary"
+                                // style={{backgroundColor: "#B19CD7"}}
+                                className="btn"
+                            >Search</Button>
+                        </Nav.Link>
+
                     </Form>
                 </NavbarBs.Collapse>
 
                 <Button
                     onClick={openCart}
-                    style={{ 
-                        width: "3rem", 
-                        height: "3rem", 
+                    style={{
+                        width: "3rem",
+                        height: "3rem",
                         position: "relative",
                         backgroundColor: "#B19CD7",
                         borderColor: "#CBC3E3"
-                     }}
+                    }}
                     className="rounded-circle m-2"
                 >
                     <MdShoppingCart color="#fff" fontSize={27} />
