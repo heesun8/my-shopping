@@ -30,22 +30,20 @@ export function Navbar() {
                         <Nav.Link to="/livingroom" as={NavLink}>Living Room</Nav.Link>
                         {/* <Nav.Link to="/about" as={NavLink}>About</Nav.Link> */}
                     </Nav>
-                    <Form className="d-flex">
+                    {/* <Form className="d-flex">
                         <Form.Control
-                            type="search"
+                            // type="search"
                             placeholder="Search"
                             className="me-2"
-                            aria-label="Search"
-                        />
-                        <Nav.Link to="/" as={NavLink}>
-                            <Button
-                                variant="outline-secondary"
-                                // style={{backgroundColor: "#B19CD7"}}
-                                className="btn"
-                            >Search</Button>
-                        </Nav.Link>
+                        // aria-label="Search"
+                        /> */}
 
-                    </Form>
+                        {/* <Button
+                            variant="outline-secondary"
+                            // style={{backgroundColor: "#B19CD7"}}
+                            className="btn"
+                        >Search</Button> */}
+                    {/* </Form> */}
                 </NavbarBs.Collapse>
 
                 <Button
