@@ -72,7 +72,7 @@ export function Navbar() {
                                 backgroundColor: "purple",
                             }}
                         >
-                            {cartQuantity-1}
+                            {cartQuantity}
                         </div>
                     )}
                 </Button>
