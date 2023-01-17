@@ -1,5 +1,6 @@
 import Offcanvas from "react-bootstrap/Offcanvas"
 import Stack from "react-bootstrap/Stack"
+import { Button } from "react-bootstrap";
 import { useShoppingCart } from "../context/ShoppingCartContext";
 import { CartItem } from "./CartItem";
 import { formatCurrency } from "../utilities/formatCurrency";
@@ -29,12 +30,18 @@ export function ShoppingCart({ isOpen }: ShoppingCartProps) {
                         Total{" "}
                         {formatCurrency(
                             cartItems.reduce((total, cartItem) => {
-                                const item = storeItems.find( i => i.id === cartItem.id)
-                                return total + ( item?.price || 0
-                                 ) * cartItem.quantity 
-                    }, 0)
-                    )}
+                                const item = storeItems.find(i => i.id === cartItem.id)
+                                return total + (item?.price || 0
+                                ) * cartItem.quantity
+                            }, 0)
+                        )}
                     </div>
+                    <Button
+                        style={{
+                            backgroundColor: "purple",
+                            borderColor: "#CBC3E3",
+                            fontFamily: "Poppins"
+                        }}>Purchase</Button>
                 </Stack>
             </Offcanvas.Body>
         </Offcanvas>
